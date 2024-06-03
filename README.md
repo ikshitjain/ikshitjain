@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ikshitjain
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Computer science Engineering 
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently learning C++
 - 📫 How to reach me linktr.ee/ikshitjain
 
 <!---
