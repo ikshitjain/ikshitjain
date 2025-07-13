@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ikshitjain
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning ADVANCE JAVA
 - 📫 How to reach me linktr.ee/ikshitjain
 
 <!---
